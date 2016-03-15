@@ -20,4 +20,12 @@ External repos or pages that may be of use.
 - [Keijiro] (https://github.com/keijiro?tab=repositories) Collection of repos including effects and shaders.
 - [UniRx] (https://github.com/neuecc/UniRx) [Reactive] (https://en.wikipedia.org/wiki/Reactive_programming) extensions for unity
 - [Unity Multipurpose Avatar] (https://github.com/huika/UMA) Unity character customisation
+- [Super Character Controller] (https://github.com/IronWarrior/SuperCharacterController) 3d character controller
+- [Google anaglytics plugin for unity] (https://github.com/googleanalytics/google-analytics-plugin-for-unity)
+- [Unity QuickSheet] (https://github.com/kimsama/Unity-QuickSheet) Tool for pulling data from excel into a scriptable object
+- [Ocean tool] (https://github.com/eliasts/Ocean_Community_Next_Gen) Shader and tool for ocean with boyancy.
+- [Unity Random] (https://github.com/tucano/UnityRandom) Simple random helpers, like dice and bags
+- [Behaviour Tree] (https://github.com/luzexi/Unity3DAIBehaviorTree) Non english repo with custom editor for custom behaviour trees
+- [Unity Utils] (https://github.com/mortennobel/UnityUtils) Class extensions, math, mesh and pathing helpers
+- [Soomla] (https://github.com/soomla) Collection of repos focused on building tools and libraries to assist with mobile game dev
 - 
