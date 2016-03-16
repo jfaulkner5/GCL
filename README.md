@@ -28,7 +28,7 @@ External repos or pages that may be of use.
 - [Behaviour Tree] (https://github.com/luzexi/Unity3DAIBehaviorTree) Non english repo with custom editor for custom behaviour trees
 - [Unity Utils] (https://github.com/mortennobel/UnityUtils) Class extensions, math, mesh and pathing helpers
 - [Soomla] (https://github.com/soomla) Collection of repos focused on building tools and libraries to assist with mobile game dev
-- [Unity3D Foundation (https://github.com/NVentimiglia/Unity3d-Foundation) Framework for data binding and data driven games
+- [Unity3D Foundation] (https://github.com/NVentimiglia/Unity3d-Foundation) Framework for data binding and data driven games
 - [Unity3D UI Windows] (https://github.com/chromealex/Unity3d.UI.Windows) Helpers for making ui windows in unity (seems very early and lacking a how to get started from what I can see)
 - [Audio Visualiser with OSC] (https://github.com/miketucker/UnityAudioVisualizerTutorial) Using OSC in unity
 - [Beat detection] (https://github.com/allanpichardo/Unity-Beat-Detection)
