@@ -44,3 +44,12 @@ External repos or pages that may be of use.
 - [OSC Receiver] (https://github.com/heaversm/unity-osc-receiver) Another OSC in unity project
 - [Shader Testbed] (https://bitbucket.org/steve_halliwell/unity-shader-testbed) Starting template for working on surface shaders, post effects and g-buffer compositon
 - [Ray Marching] (https://github.com/brianasu/unity-ray-marching) Basic demo of ray marching within Unity
+- [Unity Awesome] (https://github.com/RyanNielson/awesome-unity) A HUGE list of unity repos, like this one
+- [Unet Movement] (https://github.com/GenaSG/UnityUnetMovement)
+- [Impulse] (https://github.com/Zesix/Impulse) Framework for starting a project
+- [Extended Event] (https://github.com/Thundernerd/Unity3D-ExtendedEvent) Even more powerful Event
+- [Consolation] (https://github.com/mminer/consolation) Another simple in game console (seems to be mostly for logs)
+- [Jelly physics] (https://github.com/kwanchangnim/Jello-Physics) Soft body physics
+- [Moments] (https://github.com/Chman/Moments) In game gif recording
+- [Vexe] (https://github.com/vexe/VFW) Helpers and extensions for writing inspectors/editor windows
+- [NinjaRope] (https://github.com/Pampattitude/NinjaRope) Worms style ninja rope system
