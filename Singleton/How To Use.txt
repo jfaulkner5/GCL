@@ -1,0 +1,12 @@
+1. Place in your Scripts folder in your Unity Project.
+
+2. For every Singleton script you need in your project, replace MonoBehaviour at the top of the script with SingletonBehaviour<scriptname>. 
+   For example, you probably want your GameManager to be a Singleton, as many other scripts will be referring to it to grab variable values, 
+   So you would replace MonoBehaviour with SingletonBehaviour<GameManager> at the beginning of your GameManager script.
+
+3. If you are using Singletons, you want to not use any Awake() functions throughout your scripts, stick with Start(). You will also not be using OnDestory() functions.
+
+How to Refer to the now Singleton script:
+	There is no need to GetComponent the script in, no need to reference the now-singleton'd script anywhere. 
+	Whenever you want to refer to a variable in the script you have now made a Singleton, you will need to enter 'SingletonScript.Instance.varName' (without the apostrophes). 
+	Using the example of the GameManager script, to get the 'speed' variable, you would need to type 'GameManager.Instance.speed'.
