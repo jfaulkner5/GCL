@@ -5,12 +5,12 @@ TODO
 
 # Contributions
 From [Daniel Jochem] (https://github.com/DanielJochem)
-- [Singleton] (https://github.com/stevehalliwell/GCL/Singleton) For use on scripts that are referred to by multiple other scripts, and that only one instance should ever be available.
-- [Countdown] (https://github.com/stevehalliwell/GCL/Countdown) A basic countdown timer for use in any situation that you would need a countdown.  It also has the option to display the timer on screen.
-- [Follow Mouse Direct] (https://github.com/stevehalliwell/GCL/Player_Movement/Follow_Mouse_Direct) Moves the GameObject that this script is on, exactly where the mouse is moving.
-- [Follow Mouse Lerp] (https://github.com/stevehalliwell/GCL/Player_Movement/Follow_Mouse_Lerp) Moves the GameObject that this script is on, lerping towards where the mouse is.
-- [Keyboard Movement] (https://github.com/stevehalliwell/GCL/Player_Movement/Keyboard_Movement) Moves the GameObject that this script is on, via the keyboard. This may also work with controllers, but I do not have one to test with.
-- [Move To Click] (https://github.com/stevehalliwell/GCL/Player_Movement/Move_to_Click) Moves GameObject the last left-clicked clicked position. You can also hold down left-click and it will follow the mouse.
+- Singleton : For use on scripts that are referred to by multiple other scripts, and that only one instance should ever be available.
+- Countdown : A basic countdown timer for use in any situation that you would need a countdown.  It also has the option to display the timer on screen.
+- Follow Mouse Direct : Moves the GameObject that this script is on, exactly where the mouse is moving.
+- Follow Mouse Lerp : Moves the GameObject that this script is on, lerping towards where the mouse is.
+- Keyboard Movement : Moves the GameObject that this script is on, via the keyboard. This may also work with controllers, but I do not have one to test with.
+- Move To Click : Moves GameObject the last left-clicked clicked position. You can also hold down left-click and it will follow the mouse.
 
 # Unity Links
 External repos or pages that may be of use.
