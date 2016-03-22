@@ -63,3 +63,4 @@ External repos or pages that may be of use.
 - [Moments] (https://github.com/Chman/Moments) In game gif recording
 - [Vexe] (https://github.com/vexe/VFW) Helpers and extensions for writing inspectors/editor windows
 - [NinjaRope] (https://github.com/Pampattitude/NinjaRope) Worms style ninja rope system
+- [Temporal Reprojection AA] (https://github.com/playdeadgames/temporal)
