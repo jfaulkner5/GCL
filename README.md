@@ -64,3 +64,4 @@ External repos or pages that may be of use.
 - [Vexe] (https://github.com/vexe/VFW) Helpers and extensions for writing inspectors/editor windows
 - [NinjaRope] (https://github.com/Pampattitude/NinjaRope) Worms style ninja rope system
 - [Temporal Reprojection AA] (https://github.com/playdeadgames/temporal)
+- [Unity3d Open Source Repos] (https://unity3d-open-source.zeef.com/taras.leskiv) Similar collection of unity repos by category
