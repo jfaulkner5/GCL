@@ -1,0 +1,23 @@
+This script will force a camera (Main Camera usually, but you can set any camera) to follow a specified GameObject with an assigned height and distance from the object. This may be your player, or an enemy, or a even a car, dream big! This script has an option to zoom the camera in and out depending on the speed in which the target is moving. This script also has an option to delay the camera catching up to the target when it is rotating, showing the sides of the object as it rotates. Both features are fully customisable for how long they last and how extreme they are.
+
+Put a Rigidbody on the target GameObject, if there isn't one already.
+
+Edit any values in the inspector only.
+
+Description of editable values in the inspector:
+	target = The GameObject you want the in-scene camera to follow.
+	distance = Distance from following object.
+	height = The height of the camera.
+	lookAtHeight = The offset off the target.
+	targetRigidbody = The Rigidbody of the object you want to follow. Used to determine how far the camera should zoom out when the car moves forward.
+	rotationSnapTime = The time it takes to snap back to original rotation.
+	distanceSnapTime = The time it takes to snap back to the original zoom distance (depending on speed of targetRigidyBody).
+	distanceMultiplier = Make this around 0.1f for a small zoom out or 0.5f for a large zoom (depending on the speed (velocity) of the target Rigidbody).
+
+Add this code to the PlayerController script, near the bottom of the Update() loop:
+        this.gameObject.GetComponent<Rigidbody>().velocity = transform.forward * moveSpeed / 2;
+								     ^               ^       ^
+					The forward vector of the target	     ^       ^
+										     ^	     ^
+					Name this variable to your speed variable. Change '/ 2' to modify how far the camera will move per unit of speed
+					(I have done '/ 2' as it 'feels' good, change it to what you 'feel' is good for you, you may even times instead).
