@@ -11,6 +11,10 @@ Unity Scripts from [Daniel Jochem] (https://github.com/DanielJochem)
 - Follow Mouse Lerp : Moves the GameObject that this script is on, lerping towards where the mouse is.
 - Keyboard Movement : Moves the GameObject that this script is on, via the keyboard. This may also work with controllers, but I do not have one to test with.
 - Move To Click : Moves GameObject the last left-clicked clicked position. You can also hold down left-click and it will follow the mouse.
+- Camera Controller : 3rd person car-style customisable follow cam
+
+Unity Scrips from [Eli Deeth] (https://github.com/opke11)
+- Audio :  Simple controller for background music and sfx
 
 # Unity Links
 External repos or pages that may be of use.
