@@ -1,6 +1,6 @@
 Setup:
 
-Add the prefab to your scene.
+...
 Drag your Background music into the Bgm Clips Array  
 
 
