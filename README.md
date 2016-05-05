@@ -71,3 +71,6 @@ External repos or pages that may be of use.
 - [NinjaRope] (https://github.com/Pampattitude/NinjaRope) Worms style ninja rope system
 - [Temporal Reprojection AA] (https://github.com/playdeadgames/temporal)
 - [Unity3d Open Source Repos] (https://unity3d-open-source.zeef.com/taras.leskiv) Similar collection of unity repos by category
+- [MoveToPoint] (https://www.assetstore.unity3d.com/en/#!/content/2704)
+- [AIPatrol] (https://www.assetstore.unity3d.com/en/#!/content/2704)
+- [High Score] (https://www.assetstore.unity3d.com/en/#!/content/14837)
