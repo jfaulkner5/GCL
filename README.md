@@ -19,6 +19,7 @@ Unity Scrips from [Eli Deeth] (https://github.com/opke11)
 # Unity Links
 External repos or pages that may be of use.
 - [AID Common] (https://bitbucket.org/steve_halliwell/aid-common) Steve's collection of commonly used stuff; shaders, shake cam, follow target, ease, move to, etc.
+- [UnityRepo] (https://github.com/stevehalliwell/UnityRepo) Empty unity project with appropriate gitignore and project settings.
 - [UnityToolbag] (https://github.com/nickgravelyn/UnityToolbag) Collection of small helpers, in editor and at runtime.
 - [Google Cardboard for Unity](https://github.com/googlesamples/cardboard-unity) Google Cardboard VR Official.
 - [UnitySteer](https://github.com/ricardojmendez/UnitySteer) Toolkit for steering behaviours.
