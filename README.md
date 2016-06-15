@@ -73,3 +73,4 @@ External repos or pages that may be of use.
 - [MoveToPoint] (https://www.assetstore.unity3d.com/en/#!/content/2704)
 - [AIPatrol] (https://www.assetstore.unity3d.com/en/#!/content/2704)
 - [High Score] (https://www.assetstore.unity3d.com/en/#!/content/14837)
+- [Free Unity Assets Mega List] (http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
