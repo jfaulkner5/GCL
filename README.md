@@ -74,3 +74,5 @@ External repos or pages that may be of use.
 - [AIPatrol] (https://www.assetstore.unity3d.com/en/#!/content/2704)
 - [High Score] (https://www.assetstore.unity3d.com/en/#!/content/14837)
 - [Free Unity Assets Mega List] (http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
+- [Hivemind] (https://github.com/rev087/hivemind) Behaviour tree with visual editor
+- [Fluent] (https://github.com/codecapers/Fluent-Behaviour-Tree) Behaviour tree as code only
