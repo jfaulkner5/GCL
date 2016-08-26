@@ -50,7 +50,7 @@ External repos or pages that may be of use.
 - [Moments] (https://github.com/Chman/Moments) In game gif recording
 - [Vexe] (https://github.com/vexe/VFW) Helpers and extensions for writing inspectors/editor windows
 - [NinjaRope] (https://github.com/Pampattitude/NinjaRope) Worms style ninja rope system
-- [Temporal Reprojection AA] (https://github.com/playdeadgames/temporal)
+- [Temporal Reprojection AA] (https://github.com/playdeadgames/temporal) Temporal Anti-Aliasing from PlayDead, the LIMBO and INSIDE people
 - [Unity3d Open Source Repos] (https://unity3d-open-source.zeef.com/taras.leskiv) Similar collection of unity repos by category
 - [MoveToPoint] (https://www.assetstore.unity3d.com/en/#!/content/2704)
 - [AIPatrol] (https://www.assetstore.unity3d.com/en/#!/content/2704)
@@ -58,3 +58,4 @@ External repos or pages that may be of use.
 - [Free Unity Assets Mega List] (http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 - [Hivemind] (https://github.com/rev087/hivemind) Behaviour tree with visual editor
 - [Fluent] (https://github.com/codecapers/Fluent-Behaviour-Tree) Behaviour tree as code only
+- [GOAP unity demo] (https://github.com/sploreg/goap)
