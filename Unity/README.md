@@ -41,6 +41,7 @@ External repos or pages that may be of use.
 - [OSC Receiver] (https://github.com/heaversm/unity-osc-receiver) Another OSC in Unity project
 - [Shader Testbed] (https://bitbucket.org/steve_halliwell/unity-shader-testbed) Starting template for working on surface shaders, post effects and g-buffer compositon
 - [Ray Marching] (https://github.com/brianasu/unity-ray-marching) Basic demo of ray marching within Unity
+- [Ray Marching On Unity5] (https://github.com/i-saint/RaymarchingOnUnity5) Another ray marching sample
 - [Unity Awesome] (https://github.com/RyanNielson/awesome-unity) A HUGE list of unity repos, like this one
 - [Unet Movement] (https://github.com/GenaSG/UnityUnetMovement)
 - [Impulse] (https://github.com/Zesix/Impulse) Framework for starting a project
@@ -59,3 +60,5 @@ External repos or pages that may be of use.
 - [Hivemind] (https://github.com/rev087/hivemind) Behaviour tree with visual editor
 - [Fluent] (https://github.com/codecapers/Fluent-Behaviour-Tree) Behaviour tree as code only
 - [GOAP unity demo] (https://github.com/sploreg/goap)
+- [Volumetric Lights] (https://github.com/SlightlyMad/VolumetricLights)
+
