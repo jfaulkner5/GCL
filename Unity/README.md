@@ -61,4 +61,8 @@ External repos or pages that may be of use.
 - [Fluent] (https://github.com/codecapers/Fluent-Behaviour-Tree) Behaviour tree as code only
 - [GOAP unity demo] (https://github.com/sploreg/goap)
 - [Volumetric Lights] (https://github.com/SlightlyMad/VolumetricLights)
+- [Clutter tool] (https://github.com/calebbarton1/Clutter) Editor script to facilitate and speed assited proceedural placement of clutter
+- [Sound Manager] (https://github.com/rymdfarfar/Sound-Manager/tree/master/Assets/Scripts) Simple Sound manager to bundle sounds into groups. A stepping stone before going full fmod etc.
+- [Character Switcher] (https://github.com/J-Dodds/CharacterSwitcher) Script to allow swithing between multiple player controlled characters
+- [3rd person camera] (https://github.com/pritchoudhary/CameraLevelTest) 
 
