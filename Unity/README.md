@@ -65,4 +65,6 @@ External repos or pages that may be of use.
 - [Sound Manager] (https://github.com/rymdfarfar/Sound-Manager/tree/master/Assets/Scripts) Simple Sound manager to bundle sounds into groups. A stepping stone before going full fmod etc.
 - [Character Switcher] (https://github.com/J-Dodds/CharacterSwitcher) Script to allow swithing between multiple player controlled characters
 - [3rd person camera] (https://github.com/pritchoudhary/CameraLevelTest) 
+- [FrameCapturer] (https://github.com/unity3d-jp/FrameCapturer) Record ingame to gif, mp4 and others
+- [AssetGraph] (https://github.com/unity3d-jp/AssetGraph) Node based rules for creating asset bundles
 
