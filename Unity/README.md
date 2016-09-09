@@ -67,4 +67,4 @@ External repos or pages that may be of use.
 - [3rd person camera] (https://github.com/pritchoudhary/CameraLevelTest) 
 - [FrameCapturer] (https://github.com/unity3d-jp/FrameCapturer) Record ingame to gif, mp4 and others
 - [AssetGraph] (https://github.com/unity3d-jp/AssetGraph) Node based rules for creating asset bundles
-
+- [Node Editor] (https://github.com/Baste-RainGames/Node_Editor) Framework for custom creating node/graph based editors
