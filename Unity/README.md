@@ -68,3 +68,4 @@ External repos or pages that may be of use.
 - [FrameCapturer] (https://github.com/unity3d-jp/FrameCapturer) Record ingame to gif, mp4 and others
 - [AssetGraph] (https://github.com/unity3d-jp/AssetGraph) Node based rules for creating asset bundles
 - [Node Editor] (https://github.com/Baste-RainGames/Node_Editor) Framework for custom creating node/graph based editors
+- [Fungus] (https://www.assetstore.unity3d.com/en/#!/content/34184) Node based system for dialogue and more
