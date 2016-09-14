@@ -20,6 +20,7 @@
 - [OpenGameArt.Org] (http://opengameart.org/) Lots of 2d and 3d assets of wildly varying quality
 - [Incompetech] (https://incompetech.com/) Lots of royalty free music
 - [bfxr] (http://www.bfxr.net/) Stylised sfx generator, great for placeholders
+- [Lab Chirp] (http://labbed.net/software/labchirp/) bfxr but more apparently 
 - [freesound] (http://www.freesound.org/) Giant collection of sounds
 
 #Asset Creation
