@@ -69,3 +69,4 @@ External repos or pages that may be of use.
 - [AssetGraph] (https://github.com/unity3d-jp/AssetGraph) Node based rules for creating asset bundles
 - [Node Editor] (https://github.com/Baste-RainGames/Node_Editor) Framework for custom creating node/graph based editors
 - [Fungus] (https://www.assetstore.unity3d.com/en/#!/content/34184) Node based system for dialogue and more
+- [Rotorz Reorderable list] (https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) Allows you to have lists that can be rearranged via the inspector
