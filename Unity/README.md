@@ -70,3 +70,6 @@ External repos or pages that may be of use.
 - [Node Editor] (https://github.com/Baste-RainGames/Node_Editor) Framework for custom creating node/graph based editors
 - [Fungus] (https://www.assetstore.unity3d.com/en/#!/content/34184) Node based system for dialogue and more
 - [Rotorz Reorderable list] (https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) Allows you to have lists that can be rearranged via the inspector
+- [Enhanced Trigger Box] (https://github.com/Alexander-Scott/Enhanced-Trigger-Box)
+- [LeanTween] (https://github.com/dentedpixel/LeanTween) Tween library engineered to be lowest overhead possible
+
