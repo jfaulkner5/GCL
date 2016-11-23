@@ -73,4 +73,4 @@ External repos or pages that may be of use.
 - [Enhanced Trigger Box] (https://github.com/Alexander-Scott/Enhanced-Trigger-Box)
 - [LeanTween] (https://github.com/dentedpixel/LeanTween) Tween library engineered to be lowest overhead possible
 - [Ink] (https://github.com/inkle/ink) Interactive dialogue tool with unity integration used by Inkle to make 80Days and more
-
+- [Mesh Simplification] (http://wiki.unity3d.com/index.php/Mesh_simplification_(for_MeshCollider,_lossless)) Mesh Simplification source from the unity wiki
