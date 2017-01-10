@@ -76,4 +76,5 @@ External repos or pages that may be of use.
 - [Mesh Simplification] (http://wiki.unity3d.com/index.php/Mesh_simplification_(for_MeshCollider,_lossless)) Mesh Simplification source from the unity wiki
 - [NPBehave] (https://github.com/meniku/NPBehave) Another code based behaviour tree 
 - [LibNoise] (https://github.com/ricardojmendez/LibNoise.Unity) LibNoise ported to c# Unity
+- [Anima2D] (https://www.assetstore.unity3d.com/en/#!/content/79840) By Unity, free 2d skeleton animation
 
