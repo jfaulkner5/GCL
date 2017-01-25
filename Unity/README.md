@@ -78,3 +78,4 @@ External repos or pages that may be of use.
 - [LibNoise] (https://github.com/ricardojmendez/LibNoise.Unity) LibNoise ported to c# Unity
 - [Anima2D] (https://www.assetstore.unity3d.com/en/#!/content/79840) By Unity, free 2d skeleton animation
 - [Unity Native Sharing] (https://github.com/ChrisMaire/unity-native-sharing) Android and iOS native image share
+- [GConsole] (https://github.com/gzuidhof/GConsole) Fancier ingame dev console
