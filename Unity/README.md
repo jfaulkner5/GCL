@@ -79,3 +79,4 @@ External repos or pages that may be of use.
 - [Anima2D] (https://www.assetstore.unity3d.com/en/#!/content/79840) By Unity, free 2d skeleton animation
 - [Unity Native Sharing] (https://github.com/ChrisMaire/unity-native-sharing) Android and iOS native image share
 - [GConsole] (https://github.com/gzuidhof/GConsole) Fancier ingame dev console
+- [Unity Ui Extensions] (https://bitbucket.org/ddreaper/unity-ui-extensions) including things like snapping and achordian 
