@@ -80,3 +80,6 @@ External repos or pages that may be of use.
 - [Unity Native Sharing] (https://github.com/ChrisMaire/unity-native-sharing) Android and iOS native image share
 - [GConsole] (https://github.com/gzuidhof/GConsole) Fancier ingame dev console
 - [Unity Ui Extensions] (https://bitbucket.org/ddreaper/unity-ui-extensions) including things like snapping and achordian 
+- [CUDLR] (https://github.com/proletariatgames/CUDLR) remove debug console
+- [uREPL] (https://github.com/hecomi/uREPL) c# REPL and in game console
+
