@@ -7,6 +7,9 @@
 - [GDC youtube channel](https://www.youtube.com/c/gdconf/videos) Large collection of freely available recorded GDC talks
 - [tsumea](http://www.tsumea.com/) Australia specific version similar to gamasutra, very infrequently updated but still has jobs occasionally
 
+# Reference
+- [Maths for Games Programming](https://www.essentialmath.com/) 
+
 # Just Starting
 - [Code.org](https://code.org/) Simple interactive games/tutorials that teach basics of coding
 - [Code Combat](https://codecombat.com/) Interactive games that teach coding
