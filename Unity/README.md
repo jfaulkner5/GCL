@@ -85,3 +85,4 @@ External repos or pages that may be of use.
 - [Lunar Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) Mobile native console
 - [InputManager](https://github.com/SirRednut/Unity-InputManager) Helpful script to map keys to unity events
 - [Yarn Spinner](https://github.com/thesecretlab/YarnSpinner) interactive narrative tool
+- [MoonSharp](https://www.assetstore.unity3d.com/en/#!/content/33776) Lua interpreter within Unity / c# [Source](https://github.com/xanathar/moonsharp/)
