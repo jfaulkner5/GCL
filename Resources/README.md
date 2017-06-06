@@ -28,6 +28,7 @@
 
 # Asset Creation
 - [Blender](https://www.blender.org/) Open source free 3d modeling package
+- [VoxelShop](https://blackflux.com/node/11) & [MagicaVoxel](https://ephtracy.github.io/) 3D voxel based modeling
 - [Paint.net](http://getpaint.net/) mspaint but with layers and brushes
 - [GIMP](https://www.gimp.org/) the GNU alternative to photoshop
 
