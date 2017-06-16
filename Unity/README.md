@@ -86,3 +86,4 @@ External repos or pages that may be of use.
 - [InputManager](https://github.com/SirRednut/Unity-InputManager) Helpful script to map keys to unity events
 - [Yarn Spinner](https://github.com/thesecretlab/YarnSpinner) interactive narrative tool
 - [MoonSharp](https://www.assetstore.unity3d.com/en/#!/content/33776) Lua interpreter within Unity / c# [Source](https://github.com/xanathar/moonsharp/)
+- [TagsAndLayersTool](https://gist.github.com/daemon3000/abfbada00a10802b9890) Generate static class with names of tags and layers
