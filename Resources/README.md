@@ -44,5 +44,10 @@
 - [fmod](http://www.fmod.org/) Audio middleware
 - [Convex Decomp](https://github.com/kmammou/v-hacd) plug-in for blender for convex decomposition of complex concave mesh, allowing dynamic simulations of complex meshes via compound convex meshes.
 
+# Graphing
+- [GraphToy](http://www.iquilezles.org/apps/graphtoy/) web based graphing
+- [GraphSketch](https://www.graphsketch.com/) another web based graphing solution
+- [Octave](https://www.gnu.org/software/octave/) GNU (FLOSS) alterative to MatLab
+
 # Prototyping
 - [Ceptre](https://github.com/chrisamaphone/interactive-lp) Command-line tool for rule based system design and testing 
