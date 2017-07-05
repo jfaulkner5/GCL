@@ -43,6 +43,7 @@
 - [Box2d](http://box2d.org/) Open source 2d specific physics engine, [source](https://github.com/erincatto/Box2D)
 - [fmod](http://www.fmod.org/) Audio middleware
 - [Convex Decomp](https://github.com/kmammou/v-hacd) plug-in for blender for convex decomposition of complex concave mesh, allowing dynamic simulations of complex meshes via compound convex meshes.
+- [RenderDoc](https://github.com/baldurk/renderdoc) Graphics debugging and profiling tool.
 
 # Graphing
 - [GraphToy](http://www.iquilezles.org/apps/graphtoy/) web based graphing
