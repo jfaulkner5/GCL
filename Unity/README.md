@@ -91,3 +91,4 @@ External repos or pages that may be of use.
 - [Danesh](https://github.com/gamesbyangelina/Danesh) Tool for analysing and tweaking results procedural generation using expressive range analysis and more
 - [TButt](https://github.com/turbobutton/tbutt-vr-framework) Wrapper library around Occulus, Vive, Daydream, Cardboard, etc. Handles compiling in and out sdsk, using the correct specific prefabs and Input.
 - [DarkConfig](https://github.com/SpryFox/DarkConfig) YAML based config data loader, built for hotloading
+- [DOTween](https://github.com/Demigiant/dotween) Another fast tweening engine
