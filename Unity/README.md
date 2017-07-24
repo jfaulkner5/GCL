@@ -92,3 +92,4 @@ External repos or pages that may be of use.
 - [TButt](https://github.com/turbobutton/tbutt-vr-framework) Wrapper library around Occulus, Vive, Daydream, Cardboard, etc. Handles compiling in and out sdsk, using the correct specific prefabs and Input.
 - [DarkConfig](https://github.com/SpryFox/DarkConfig) YAML based config data loader, built for hotloading
 - [DOTween](https://github.com/Demigiant/dotween) Another fast tweening engine
+- [Zenject](https://github.com/modesttree/Zenject) A Dependancy Injection project for Unity3D
