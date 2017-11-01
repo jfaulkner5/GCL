@@ -25,6 +25,7 @@
 - [bfxr](http://www.bfxr.net/) Stylised sfx generator, great for placeholders
 - [Lab Chirp](http://labbed.net/software/labchirp/) bfxr but more apparently 
 - [freesound](http://www.freesound.org/) Giant collection of sounds
+- [poly](https://poly.google.com/) models in obj format under CC-BY, collected by Google from Brush and Box
 
 # Asset Creation
 - [Blender](https://www.blender.org/) Open source free 3d modeling package
